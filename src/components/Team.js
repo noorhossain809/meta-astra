@@ -34,7 +34,7 @@ const Team = () => {
                <div className="col-md-4">
                   <div className="team-box">
                      <img src={team3} alt="" />
-                     <h3 className="name">JACK SPARROW</h3>
+                     <h3 className="name">Charlie Angel</h3>
                      <h4 className="title">LEAD DEVELOPER</h4>
                      <p>
                         It in the blood, Full stack with a <br />

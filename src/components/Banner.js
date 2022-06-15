@@ -19,7 +19,7 @@ const Banner = () => {
 
           <button className="banner-btn">
             <a
-              href="https://discord.com/invite/WE24q2kF"
+              href="https://discord.gg/FqSBgmayhv"
               target="_blank"
               rel="noopener noreferrer"
             >
