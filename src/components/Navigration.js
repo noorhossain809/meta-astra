@@ -62,7 +62,7 @@ const Navigration = () => {
                         <img className="flat-icon" src={twitter} alt="" />
                      </a>
                      <a
-                        href="https://discord.com/invite/WE24q2kF"
+                        href="https://discord.com/invite/FqSBgmayhv"
                         target="_blank"
                         rel="noopener noreferrer"
                      >
