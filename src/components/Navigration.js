@@ -5,13 +5,15 @@ import hamburger from "../images/hamburger.png";
 import twitter from "../images/twitter.png";
 import discord from "../images/discord.png";
 import instagram from "../images/instagram.png";
+import Svg from "./svg/Svg";
 
 const Navigration = () => {
    return (
       <nav id="navigration" className="navbar navbar-expand-lg fixed-top">
          <div className="container">
             <Link className="navbar-brand" to="/">
-               <img className="img-fluid" src={logo} alt="" />
+               <Svg />
+               {/* <img className="img-fluid" src={logo} alt="" /> */}
             </Link>
             <button
                className="navbar-toggler"

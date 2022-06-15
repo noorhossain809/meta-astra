@@ -3,6 +3,7 @@ import twitter from "../images/twitter.png";
 import discord from "../images/discord.png";
 import instagram from "../images/instagram.png";
 import sandclock from "../images/sandglass.png";
+import favicon from '../images/Favicon.png'
 
 const Footer = () => {
    return (
@@ -11,7 +12,7 @@ const Footer = () => {
             <div className="row align-items-center">
                <div className="col-6">
                   <a
-                     href="https://discord.com/invite/WE24q2kF"
+                     href="https://discord.gg/FqSBgmayhv"
                      target="_blank"
                      rel="noopener noreferrer"
                   >
